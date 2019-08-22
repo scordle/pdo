@@ -1,6 +1,6 @@
-CREATE DATABASE test;
+CREATE DATABASE csc272_scratchpad;
 
-use test;
+use csc272_scratchpad;
 
 CREATE TABLE users (
 	id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
