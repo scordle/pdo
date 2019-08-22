@@ -1,4 +1,4 @@
-CREATE DATABASE csc272_scratchpad;
+-- CREATE DATABASE csc272_scratchpad;
 
 use csc272_scratchpad;
 
